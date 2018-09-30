@@ -14,7 +14,7 @@
 }
 
 .bg-header2 {
-  background: url(images/image2.jpg) center center no-repeat;
+  background: url(images/image2.png) center center no-repeat;
   background-attachment: fixed;
   background-size: cover; 
 }
@@ -27,7 +27,7 @@
 
 
 .bg-quote1 {
-  background: url(images/image4.jpg) center center no-repeat;
+  background: url(images/image4.png) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
